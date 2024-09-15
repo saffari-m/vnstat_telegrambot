@@ -1,5 +1,5 @@
 
-# vnStat Traffic Bot
+# vnStat Traffic Telegram Bot
 
 A Telegram bot built using Node.js that exposes `vnstat` traffic data from a server. The bot uses the `node-telegram-bot-api` library and `vnstat` to monitor and report network traffic statistics.
 
@@ -24,8 +24,8 @@ Before running the bot, ensure you have the following installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/vnstat-traffic-bot.git
-   cd vnstat-traffic-bot
+   git clone https://github.com/saffari-m/vnstat_telegrambot.git
+   cd vnstat_telegrambot
    ```
 
 2. **Install dependencies**:
