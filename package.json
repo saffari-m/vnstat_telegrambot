@@ -1,8 +1,8 @@
 {
-  "name": "telegrambot-vnstat-monitor",
+  "name": "vnstat-telegrambot",
   "version": "1.0.0",
-  "description": "",
-  "main": "telegram_vnstat_bot.js",
+  "description": "A Telegram bot to handle the Vnstat abilities through the telegram bot API",
+  "main": "bot.js",
   "scripts": {
     "start":"nodemon ./bot",
     "test": "echo \"Error: no test specified\" && exit 1"
